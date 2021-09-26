@@ -1,6 +1,6 @@
 {
   "name": "npm-ci-template-example",
-  "version": "1.0.2-0",
+  "version": "1.0.2-1",
   "description": "",
   "main": "./dist/npm-example.umd.js",
   "module": "./dist/npm-example.es.js",
